@@ -1,10 +1,10 @@
-## Github repository for collaboration: Applied Linguistics Spring 2026
+## 💦 Github repository for collaboration
+Applied Linguistics Spring 2026
 
 + Class presentation
-+ Students work to share
 + Reading summaries
 
-### Reading discussion notes
+### 👫 Reading discussion notes
 
 |Date|Reading list|Keywords|Link|
 |--|--|--|--|
