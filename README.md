@@ -8,7 +8,7 @@ Applied Linguistics Spring 2026
 
 |Date|Reading list|Keywords|Presenters|Link|
 |--|--|--|--|--|
-|March 18|Reading #3||||
-|March 18|Reading #4||||
-|March 25|Reading #5||||
-|March 25|Reading #6||||
+|Mar. 18|Reading #3||||
+|Mar. 18|Reading #4||||
+|Mar. 25|Reading #5||||
+|Mar. 25|Reading #6||||
