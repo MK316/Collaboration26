@@ -4,7 +4,7 @@ Applied Linguistics Spring 2026
 + Class presentation
 + Reading summaries
 
-### 👫 Reading discussion notes
+### 👫 Presentation material: Readings
 
 |Date|Reading list|Keywords|Presenters|Link|
 |--|--|--|--|--|
