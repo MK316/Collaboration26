@@ -7,3 +7,4 @@
 2. Naming Convention: Your file must be named exactly as follows (e.g., Reading01_infographic.png, Reading04_infographic.png). Note that filenames are case-sensitive.
 
 3. Upload the file: Add your image to the designated folder in this repository.
+4. Verify on Streamlit: Check our Streamlit page to see if your image is displayed correctly.
