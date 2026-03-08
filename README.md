@@ -1,8 +1,13 @@
 ## 💦 Github repository for collaboration
 Applied Linguistics Spring 2026
 
-+ Class presentation
-+ Reading summaries
++ Summarize: Reading summaries in Markdown (.md) => Write on Github
+
++ Visualize: Main ideas via infographics & video (less than 3 min.) => Post on Github & Google sheet (video link)
+
++ Present: Classroom presentations & slides => 2 page printed handout (max)
+
++ Discuss: Article-based group discussions
 
 ### 👫 Presentation material: Readings
 
