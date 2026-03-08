@@ -6,7 +6,7 @@ Applied Linguistics Spring 2026
 
 ### 👫 Presentation material: Readings
 
-|Date|Reading list|Keywords|Presenting Group| Discussion Group|Link|
+|Date|Reading list|Keywords|Presenting| Discussion|Link|
 |--|--|--|--|--|--|
 |Mar. 18|Reading #2||G1|G2||
 |Mar. 25|Reading #3||G2|G3||
