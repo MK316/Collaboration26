@@ -13,8 +13,8 @@ Applied Linguistics Spring 2026
 |Apr. 1|Reading #4|AI in education|G3|G1||
 |Apr. 8|Reading #5|AI in education, meta analysis|G1|G2||
 |Apr. 15|Reading #6|AI from translanguaging|G2|G3||
-|Apr. 22|Reading #7|AI from translanguaging|G2|G3||
-|Apr. 29|Reading #8|AI from translanguaging|G2|G3||
+|Apr. 22|Reading #7|strategic engagement|G3|G1||
+|Apr. 29|Reading #8|TPACK|TBA|TBA||
 
 ### 👫 Groups
 
