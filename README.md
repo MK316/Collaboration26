@@ -13,3 +13,11 @@ Applied Linguistics Spring 2026
 |Apr. 1|Reading #4||||
 |Apr. 8|Reading #5||||
 |Apr. 15|Reading #6||||
+
+### Groups
+
+|Group|Members|
+|--|--|
+|G1|정우창, 강동경|
+|G2|최지현, 조재민|
+|G3|권성자, 박아진, 최시경|
