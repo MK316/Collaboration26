@@ -14,7 +14,7 @@ Applied Linguistics Spring 2026
 |Apr. 8|Reading #5||||
 |Apr. 15|Reading #6||||
 
-### Groups
+### 👫 Groups
 
 |Group|Members|
 |--|--|
