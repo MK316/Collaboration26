@@ -1,20 +1,14 @@
 ## 💦 Github repository for collaboration
 Applied Linguistics Spring 2026
 
-+ Summarize: Reading summaries in Markdown (.md)
+### 📋 Class Collaboration Activities (Collaboration26)
 
-=> Write on Github (Collaboration26 > Reading_summary folder)
-
-+ Visualize: Main ideas via infographics & video (less than 3 min.)
-
-=> Post on Github (Collaboration26 > infographic folder)  
-=> [Google sheet](https://docs.google.com/spreadsheets/d/1JsW8sRnnVAMwgUSpXK3ygO0YvJqzLC5ZucOF_523Lzg/edit?usp=sharing) (video link)
-
-+ Present: Classroom presentations & slides 
-
-=> 2 page printed handout (max)
-
-+ Discuss: Article-based group discussions
+| Category | Task & Deliverables | Submission & Links |
+| :--- | :--- | :--- |
+| **Summarize** | Reading summaries in Markdown (`.md`) | [📂 Reading_summary](./Reading_summary) |
+| **Visualize** | Main ideas via Infographics & Video (< 3 min.) | [📂 Infographic](./infographic) / [🎬 Video Links](https://docs.google.com/spreadsheets/d/1JsW8sRnnVAMwgUSpXK3ygO0YvJqzLC5ZucOF_523Lzg/edit?usp=sharing) |
+| **Present** | Classroom presentations & Slide decks | 2-page printed handout (Max) |
+| **Discuss** | Article-based group discussions | In-class Participation |
 
 ### 👫 Presentation material: Readings
 
