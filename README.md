@@ -14,13 +14,13 @@ Applied Linguistics Spring 2026
 
 |Date|Reading list|Keywords|Presenting| Discussion|Link|
 |--|--|--|--|--|--|
-|Mar. 18|Reading #2|Alignment issues|G1|G2||
-|Mar. 25|Reading #3|Computational Thinking (CT)|G2|G3||
-|Apr. 1|Reading #4|AI in education|G3|G1||
-|Apr. 8|Reading #5|AI in education, meta analysis|G1|G2||
-|Apr. 15|Reading #6|AI from translanguaging|G2|G3||
-|Apr. 22|Reading #7|strategic engagement|G3|G1||
-|Apr. 29|Reading #8|TPACK framework <br> Technological Pedagogical Content Knowledge|TBA|TBA||
+|Mar. 18|Reading #2|Alignment issues||||
+|Mar. 25|Reading #3|Computational Thinking (CT)|G1|G2||
+|Apr. 1|Reading #4|AI in education|G2|G3||
+|Apr. 8|Reading #5|AI in education, meta analysis|G3|G1||
+|Apr. 15|Reading #6|AI from translanguaging|G1|G2||
+|Apr. 22|Reading #7|strategic engagement|G2|G3||
+|Apr. 29|Reading #8|TPACK framework <br> Technological Pedagogical Content Knowledge|G3|G1||
 
 ### 👫 Groups
 
