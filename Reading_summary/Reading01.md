@@ -20,9 +20,9 @@ Li, W. (2018). Translanguaging as a practical theory of language. Applied Lingui
 + Evidence: 
 
 1. New Chinglish: Creative acts expressing sociopolitical subtext. 
-  + Niubility = Niubi(Chinese: awesome) + Ability: Exceptional capability or awesomeness in a blend of genuine admiration and playful mockery tone.
-  + Democrazy = Democracy + Crazy
-  + How old are you? (Why always you? Zěnme lǎo shì nǐ?)
+    + Niubility = Niubi(Chinese: awesome) + Ability: Exceptional capability or awesomeness in a blend of genuine admiration and playful mockery tone.
+    + Democrazy = Democracy + Crazy
+    + How old are you? (Why always you? Zěnme lǎo shì nǐ?)
 
 2. Singaporean Multilingualism: Fluid interweaving of regional varieties and English.
   + Observation: Six different languages blending instantly and fluidly in actual speech.
