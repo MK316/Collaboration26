@@ -26,8 +26,6 @@ Li, W. (2018). Translanguaging as a practical theory of language. Applied Lingui
 
 2. Singaporean Multilingualism: Fluid interweaving of regional varieties and English.
     + Observation: Six different languages blending instantly and fluidly in actual speech.
-    + Key Insight: Meaning-making matters more than following the "rules" of a single language system.
-    + Takeaway: We should stop chasing the myth of "pure" language and instead value the rich, personalized way (idiolect) that multilingual individuals actually communicate.
 
 + Key Shifts:
   + Post-Multilingualism: Simply "having" many languages is insufficient.
