@@ -59,4 +59,4 @@ Li, W. (2018). Translanguaging as a practical theory of language. Applied Lingui
   1. Transcending: Moving beyond socially constructed systems.
   2. Transformative: Changing individual cognition and social structures.
   3. Transdisciplinary: Integrating linguistics, psychology, sociology, and education.
-+ Final Goal: Understanding the human mind as a holistic multi-competence.
++ Final Goal: **_Understanding the human mind as a holistic multi-competence_**.
