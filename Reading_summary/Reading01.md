@@ -36,7 +36,7 @@ Li, W. (2018). Translanguaging as a practical theory of language. Applied Lingui
 
 ## 4. Why Translanguaging? (Shift in Perspective)
 + Pedagogy -> Process: From Welsh classroom strategy to a theory of meaning-making.
-+ The "Trans-" Prefix:
++ The "**Trans**-" Prefix:
   +  Trans-Language: Multilinguals use an Idiolect (personal repertoire), not "named" languages.
   + Trans-Modal: Human thought is multimodal (gestures, visuals, sounds).
 + Challenging Myths:
