@@ -25,9 +25,9 @@ Li, W. (2018). Translanguaging as a practical theory of language. Applied Lingui
     + How old are you? (Why always you? Zěnme lǎo shì nǐ?)
 
 2. Singaporean Multilingualism: Fluid interweaving of regional varieties and English.
-  + Observation: Six different languages blending instantly and fluidly in actual speech.
-  + Key Insight: Meaning-making matters more than following the "rules" of a single language system.
-  + Takeaway: We should stop chasing the myth of "pure" language and instead value the rich, personalized way (idiolect) that multilingual individuals actually communicate.
+    + Observation: Six different languages blending instantly and fluidly in actual speech.
+    + Key Insight: Meaning-making matters more than following the "rules" of a single language system.
+    + Takeaway: We should stop chasing the myth of "pure" language and instead value the rich, personalized way (idiolect) that multilingual individuals actually communicate.
 
 + Key Shifts:
   + Post-Multilingualism: Simply "having" many languages is insufficient.
@@ -37,11 +37,11 @@ Li, W. (2018). Translanguaging as a practical theory of language. Applied Lingui
 ## 4. Why Translanguaging? (Shift in Perspective)
 + Pedagogy -> Process: From Welsh classroom strategy to a theory of meaning-making.
 + The "Trans-" Prefix:
-  Trans-Language: Multilinguals use an Idiolect (personal repertoire), not "named" languages.
-Trans-Modal: Human thought is multimodal (gestures, visuals, sounds).
-Challenging Myths:
-Anti-Modularity: No "language-specific" brain region; language is a multisensory system.
-Language of Thought: We think in an idiolect, not in the artificial boundaries of a nation-state language.
+  +  Trans-Language: Multilinguals use an Idiolect (personal repertoire), not "named" languages.
+  + Trans-Modal: Human thought is multimodal (gestures, visuals, sounds).
++ Challenging Myths:
+  + Anti-Modularity: No "language-specific" brain region; language is a multisensory system.
+  + Language of Thought: We think in an idiolect, not in the artificial boundaries of a nation-state language.
 
 ## 5. Translanguaging Space & Instinct
 #### 5.1 Space (The "Where"):
