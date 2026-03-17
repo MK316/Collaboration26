@@ -14,7 +14,7 @@ Applied Linguistics Spring 2026
 
 |Date|Reading list|Keywords|Presenting| Discussion|Link|
 |--|--|--|--|--|--|
-|Mar. 18|Reading #2|Alignment issues||||
+|Mar. 18|Reading #1 & Reading #2|Translanguaging; Alignment issues||||
 |Mar. 25|Reading #3|Computational Thinking (CT)|G1|G3||
 |Apr. 1|Reading #4|AI in education|G2|G1||
 |Apr. 8|Reading #5|AI in education, meta analysis|G3|G2||
