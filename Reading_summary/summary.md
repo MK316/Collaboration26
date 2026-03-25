@@ -69,7 +69,7 @@
 ## 8. Identity, Motivation, and Equity 🌍
 - Motivation: Programming supports creativity and self-expression  
 - Identity: Learners become active creators, not passive users  
-- Equity Issue: Access to CT is uneven across social groups  
+- Equity Issue: Access to CT is uneven across social groups → Opportunities to learn computational thinking vary depending on students’ access to resources, school context, and socioeconomic background.
 - Implication: Integrating CT into literacy broadens participation  
 
 ## 9. Educational Implications 🎓
