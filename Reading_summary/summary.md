@@ -56,7 +56,7 @@
 
 - Applications:
   1) Form–Meaning–Use parallel between programming and language → Programming, like language, involves form (syntax), meaning (semantics), and use (function in context).  
-  2) Sequencing supports grammar and writing organization → Writing coherent sentences and texts requires logical ordering, similar to step-by-step instructions in programming.  
+  2) Sequencing supports grammar and writing organization → Step-by-step programming parallels the logical ordering required for writing coherent sentences and texts.  
   3) Debugging promotes reflection and metacognition → Identifying and correcting errors in code mirrors revising writing.  
 
 - Key Insight: Programming strengthens language learning by reinforcing structure and meaning  
