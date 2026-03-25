@@ -12,7 +12,7 @@ Applied Linguistics Spring 2026
 
 ### 👫 Presentation material: Readings
 
-|Date|Reading list|Keywords|Presenting| Discussion|[📂 Reading_summary](https://github.com/MK316/Collaboration26/tree/main/Reading_summary)|[📂 Infographic](https://github.com/MK316/Collaboration26/tree/main/Reading_summary)|[🎬 Video Links](https://docs.google.com/spreadsheets/d/1JsW8sRnnVAMwgUSpXK3ygO0YvJqzLC5ZucOF_523Lzg/edit?usp=sharing)|
+|Date|Reading list|Keywords|Presenting| Discussion|📂 [Reading_summary](https://github.com/MK316/Collaboration26/tree/main/Reading_summary)|📂 [Infographic](https://github.com/MK316/Collaboration26/tree/main/Reading_summary)|[🎬 Video Links](https://docs.google.com/spreadsheets/d/1JsW8sRnnVAMwgUSpXK3ygO0YvJqzLC5ZucOF_523Lzg/edit?usp=sharing)|
 |--|--|--|--|--|--|--|--|
 |Mar. 18|Reading #1 & Reading #2|Translanguaging; Alignment issues||||||
 |Mar. 25|Reading #3|Computational Thinking (CT)|G1|G3|[link](https://github.com/MK316/Collaboration26/blob/main/Reading_summary/Reading03.md)|[link](https://github.com/MK316/Collaboration26/blob/main/infographic/Reading03_infographic.png)|[link](https://youtu.be/bRVTDYAfj3M)|
