@@ -1,4 +1,4 @@
-# 📘 Computational Thinking & Literacy (Handout Summary)
+# 📘 Computational Thinking & Literacy
 
 ## 1. Introduction: Rethinking Computational Thinking
 - Status: Computing shapes modern society, requiring new ways of thinking and problem-solving.
