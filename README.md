@@ -3,16 +3,16 @@ Applied Linguistics Spring 2026
 
 ### 📋 Class Collaboration Activities (Collaboration26)
 
-| Category | Task & Deliverables | Submission & Links |
+| Category | Task & Deliverables | Remarks|
 | :--- | :--- | :--- |
-| **Summarize** | Reading summaries in Markdown (`.md`) | [📂 Reading_summary](https://github.com/MK316/Collaboration26/tree/main/Reading_summary) |
-| **Visualize** | Main ideas via Infographics & Video (< 3 min.) | [📂 Infographic](https://github.com/MK316/Collaboration26/tree/main/Reading_summary) / [🎬 Video Links](https://docs.google.com/spreadsheets/d/1JsW8sRnnVAMwgUSpXK3ygO0YvJqzLC5ZucOF_523Lzg/edit?usp=sharing) |
+| **Summarize** | Reading summaries in Markdown (`.md`) |  |
+| **Visualize** | Main ideas via Infographics & Video (< 3 min.) |  |
 | **Present** | Classroom presentations & Slide decks | 2-page printed handout (Max) |
 | **Discuss** | Article-based group discussions | In-class Participation |
 
 ### 👫 Presentation material: Readings
 
-|Date|Reading list|Keywords|Presenting| Discussion|Summary|Infographic|Video|
+|Date|Reading list|Keywords|Presenting| Discussion|[📂 Reading_summary](https://github.com/MK316/Collaboration26/tree/main/Reading_summary)|[📂 Infographic](https://github.com/MK316/Collaboration26/tree/main/Reading_summary)|[🎬 Video Links](https://docs.google.com/spreadsheets/d/1JsW8sRnnVAMwgUSpXK3ygO0YvJqzLC5ZucOF_523Lzg/edit?usp=sharing)|
 |--|--|--|--|--|--|--|--|
 |Mar. 18|Reading #1 & Reading #2|Translanguaging; Alignment issues||||||
 |Mar. 25|Reading #3|Computational Thinking (CT)|G1|G3|[link](https://github.com/MK316/Collaboration26/blob/main/Reading_summary/Reading03.md)|[link](https://github.com/MK316/Collaboration26/blob/main/infographic/Reading03_infographic.png)|[link](https://youtu.be/bRVTDYAfj3M)|
