@@ -1,12 +1,12 @@
 📄 Computational Thinking & Literacy
-+ 1. Introduction: Rethinking Computational Thinking
-§	Status: Computing shapes modern society, requiring new ways of thinking and problem-solving.
-§	Problem: Education separates computer science from literacy, treating coding as a technical skill.
-§	Central Argument: Computational Thinking (CT) should be understood as a form of literacy.
-§	Framework: The paper proposes a three-dimensional model:
-1)	CT as literacy
-2)	CT through literacy
-3)	Literacy through CT
+# Introduction: Rethinking Computational Thinking
+- Status: Computing shapes modern society, requiring new ways of thinking and problem-solving.
+- Problem: Education separates computer science from literacy, treating coding as a technical skill.
+- Central Argument: Computational Thinking (CT) should be understood as a form of literacy.
+- Framework: The paper proposes a three-dimensional model:
+  1)	CT as literacy
+  2)	CT through literacy
+  3)	Literacy through CT
 2. What is Computational Thinking?
 §	Definition: A general problem-solving approach applicable across disciplines.
 §	Key Skills
