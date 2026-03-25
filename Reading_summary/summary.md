@@ -32,8 +32,8 @@
 
 - Cognitive Dimension: CT enhances thinking through core processes:
   1) Abstraction: focusing on essential features while simplifying complexity  
-  2) Automation: creating rule-based procedures that can be executed by machines  
-  3) Analysis: examining patterns and processes to evaluate and refine solutions  
+  2) Automation: the process of instructing a computer to execute a series of tasks or algorithms quickly and efficiently  
+  3) Analysis: reflecting whether abstractions and automations are correct  
 
 - Social Dimension: CT is shaped by cultural, institutional, and technological contexts  
 
