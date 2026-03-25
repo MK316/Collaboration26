@@ -1,5 +1,5 @@
-📄 Computational Thinking & Literacy (Handout Summary)
-1. Introduction: Rethinking Computational Thinking
+📄 Computational Thinking & Literacy
++ 1. Introduction: Rethinking Computational Thinking
 §	Status: Computing shapes modern society, requiring new ways of thinking and problem-solving.
 §	Problem: Education separates computer science from literacy, treating coding as a technical skill.
 §	Central Argument: Computational Thinking (CT) should be understood as a form of literacy.
