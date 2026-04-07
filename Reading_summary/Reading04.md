@@ -23,27 +23,27 @@
 - It includes five aspects across three progression levels, forming fifteen blocks. 
 
 ## 5. Five aspects
-• Human-centred mindset
-• Ethics of AI
-• AI foundations and applications
-• AI pedagogy
-• AI for professional development
+- Human-centred mindset
+- Ethics of AI
+- AI foundations and applications
+- AI pedagogy
+- AI for professional development
 
 ## 6. Three progression levels
-• Acquire: essential AI competencies and basic AI literacy
-• Deepen: meaningful AI–pedagogy integration
-• Create: creative configuration of AI systems and innovative use of AI in education 
+- Acquire: essential AI competencies and basic AI literacy
+- Deepen: meaningful AI–pedagogy integration
+- Create: creative configuration of AI systems and innovative use of AI in education 
 
 ## 7. Fifteen competency blocks
-• Human-centred mindset: Human agency → Human accountability → Social responsibility
-• Ethics of AI: Ethical principles → Safe and responsible use → Co-creating ethical rules
-• AI foundations and applications: Basic AI techniques and applications → Application skills → Creating with AI
-• AI pedagogy: AI-assisted teaching → AI–pedagogy integration → AI-enhanced pedagogical transformation
-• AI for professional development: AI enabling lifelong professional learning → AI to enhance organizational learning → AI to support professional transformation
+- Human-centred mindset: Human agency → Human accountability → Social responsibility
+- Ethics of AI: Ethical principles → Safe and responsible use → Co-creating ethical rules
+- AI foundations and applications: Basic AI techniques and applications → Application skills → Creating with AI
+- AI pedagogy: AI-assisted teaching → AI–pedagogy integration → AI-enhanced pedagogical transformation
+- AI for professional development: AI enabling lifelong professional learning → AI to enhance organizational learning → AI to support professional transformation
 
 ## 8. Suggested implementation strategies
-• Regulate AI and ensure trustworthy AI tools for education
-• Build enabling policies and conditions for the use of AI in education
-• Formulate and adopt local AI competency frameworks for teachers
-• Design and streamline training and support programmes on AI competencies
-• Develop contextual performance-based assessment tools
+- Regulate AI and ensure trustworthy AI tools for education
+- Build enabling policies and conditions for the use of AI in education
+- Formulate and adopt local AI competency frameworks for teachers
+- Design and streamline training and support programmes on AI competencies
+- Develop contextual performance-based assessment tools
