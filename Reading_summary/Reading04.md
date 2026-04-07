@@ -11,16 +11,16 @@
 - Offer a benchmarking matrix for assessing teachers’ AI competencies. 
 
 ## 3. Key principles
-• Ensuring inclusive digital futures
-• A human-centred approach to AI
-• Protecting teachers’ rights and iteratively (re)defining teachers’ roles
-• Promoting trustworthy and environmentally sustainable AI for education
-• Ensuring applicability for all teachers
-• Lifelong professional learning for teachers
+- Ensuring inclusive digital futures
+- A human-centred approach to AI
+- Protecting teachers’ rights and iteratively (re)defining teachers’ roles
+- Promoting trustworthy and environmentally sustainable AI for education
+- Ensuring applicability for all teachers
+- Lifelong professional learning for teachers
 
 ## 4. Structure of the AI CFT
-• The framework is a two-dimensional matrix.
-• It includes five aspects across three progression levels, forming fifteen blocks. 
+- The framework is a two-dimensional matrix.
+- It includes five aspects across three progression levels, forming fifteen blocks. 
 
 ## 5. Five aspects
 • Human-centred mindset
