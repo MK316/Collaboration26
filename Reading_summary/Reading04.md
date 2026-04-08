@@ -10,22 +10,22 @@
 - Support the design of teacher training and professional development programmes.
 - Offer a benchmarking matrix for assessing teachers’ AI competencies. 
 
-## 3. Key principles
-- Ensuring inclusive digital futures
-- A human-centred approach to AI
-- Protecting teachers’ rights and iteratively (re)defining teachers’ roles
-- Promoting trustworthy and environmentally sustainable AI for education
-- Ensuring applicability for all teachers
-- Lifelong professional learning for teachers
+## 3. Key principles🔑
+1) Ensuring inclusive digital futures
+2) A human-centred approach to AI
+3) Protecting teachers’ rights and iteratively (re)defining teachers’ roles
+4) Promoting trustworthy and environmentally sustainable AI for education
+5) Ensuring applicability for all teachers
+6) Lifelong professional learning for teachers
 
 ## The AI competency framework high-level structure: aspects and progression levels
-| Aspects                              | Acquire                                  | Deepen                                      | Create                                      |
+| Aspects                              | **Acquire**                                  | **Deepen**                                      | **Create**                                      |
 |--------------------------------------|------------------------------------------|---------------------------------------------|---------------------------------------------|
-| 1. Human-centred mindset             | Human agency                             | Human accountability                        | Social responsibility                       |
-| 2. Ethics of AI                      | Ethical principles                       | Safe and responsible use                    | Co-creating ethical rules                   |
-| 3. AI foundations and applications   | Basic AI techniques and applications     | Application skills                          | Creating with AI                            |
-| 4. AI pedagogy                       | AI-assisted teaching                     | AI–pedagogy integration                     | AI-enhanced pedagogical transformation      |
-| 5. AI for professional development   | AI enabling lifelong professional learning | AI to enhance organizational learning      | AI to support professional transformation   |
+| **1. Human-centred mindset**             | Human agency                             | Human accountability                        | Social responsibility                       |
+| **2. Ethics of AI**                      | Ethical principles                       | Safe and responsible use                    | Co-creating ethical rules                   |
+| **3. AI foundations and applications**   | Basic AI techniques and applications     | Application skills                          | Creating with AI                            |
+| **4. AI pedagogy**                       | AI-assisted teaching                     | AI–pedagogy integration                     | AI-enhanced pedagogical transformation      |
+| **5. AI for professional development**   | AI enabling lifelong professional learning | AI to enhance organizational learning      | AI to support professional transformation   |
 
 ## 4. Structure of the AI CFT
 - The framework is a two-dimensional matrix.
