@@ -40,7 +40,7 @@
 - Deepen: meaningful AI–pedagogy integration
 - Create: creative configuration of AI systems and innovative use of AI in education 
 
-## 7. The AI competency framework high-level structure: aspects and progression levels
+## 7. The AI competency framework high-level structure: aspects and progression levels⭐
 | Aspects                              | **Acquire**                                  | **Deepen**                                      | **Create**                                      |
 |--------------------------------------|------------------------------------------|---------------------------------------------|---------------------------------------------|
 | **1. Human-centred mindset**             | _Human agency_                             | _Human accountability_                        | _Social responsibility_                       |
