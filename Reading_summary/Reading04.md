@@ -23,14 +23,6 @@
    - _accessibility, scalability, adaptability, digital evolution, continuous learning_
 6) Lifelong professional learning for teachers
    - _lifelong learning, reflection, professional growth, AI-supported learning, continuous development_
-## The AI competency framework high-level structure: aspects and progression levels
-| Aspects                              | **Acquire**                                  | **Deepen**                                      | **Create**                                      |
-|--------------------------------------|------------------------------------------|---------------------------------------------|---------------------------------------------|
-| **1. Human-centred mindset**             | _Human agency_                             | _Human accountability_                        | _Social responsibility_                       |
-| **2. Ethics of AI**                      | _Ethical principles_                       | _Safe and responsible use_                    | _Co-creating ethical rules_                   |
-| **3. AI foundations and applications**   | _Basic AI techniques and applications_     | _Application skills_                          | _Creating with AI_                            |
-| **4. AI pedagogy**                       | _AI-assisted teaching_                     | _AI–pedagogy integration_                     | _AI-enhanced pedagogical transformation_      |
-| **5. AI for professional development**   | _AI enabling lifelong professional learning_ | _AI to enhance organizational learning_      | _AI to support professional transformation_   |
 
 ## 4. Structure of the AI CFT
 - The framework is a two-dimensional matrix.
@@ -48,12 +40,14 @@
 - Deepen: meaningful AI–pedagogy integration
 - Create: creative configuration of AI systems and innovative use of AI in education 
 
-## 7. Fifteen competency blocks
-- Human-centred mindset: Human agency → Human accountability → Social responsibility
-- Ethics of AI: Ethical principles → Safe and responsible use → Co-creating ethical rules
-- AI foundations and applications: Basic AI techniques and applications → Application skills → Creating with AI
-- AI pedagogy: AI-assisted teaching → AI–pedagogy integration → AI-enhanced pedagogical transformation
-- AI for professional development: AI enabling lifelong professional learning → AI to enhance organizational learning → AI to support professional transformation
+## 7. The AI competency framework high-level structure: aspects and progression levels
+| Aspects                              | **Acquire**                                  | **Deepen**                                      | **Create**                                      |
+|--------------------------------------|------------------------------------------|---------------------------------------------|---------------------------------------------|
+| **1. Human-centred mindset**             | _Human agency_                             | _Human accountability_                        | _Social responsibility_                       |
+| **2. Ethics of AI**                      | _Ethical principles_                       | _Safe and responsible use_                    | _Co-creating ethical rules_                   |
+| **3. AI foundations and applications**   | _Basic AI techniques and applications_     | _Application skills_                          | _Creating with AI_                            |
+| **4. AI pedagogy**                       | _AI-assisted teaching_                     | _AI–pedagogy integration_                     | _AI-enhanced pedagogical transformation_      |
+| **5. AI for professional development**   | _AI enabling lifelong professional learning_ | _AI to enhance organizational learning_      | _AI to support professional transformation_   |
 
 ## 8. Suggested implementation strategies
 - Regulate AI and ensure trustworthy AI tools for education
