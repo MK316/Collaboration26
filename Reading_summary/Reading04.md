@@ -21,11 +21,11 @@
 ## The AI competency framework high-level structure: aspects and progression levels
 | Aspects                              | **Acquire**                                  | **Deepen**                                      | **Create**                                      |
 |--------------------------------------|------------------------------------------|---------------------------------------------|---------------------------------------------|
-| **1. Human-centred mindset**             | Human agency                             | Human accountability                        | Social responsibility                       |
-| **2. Ethics of AI**                      | Ethical principles                       | Safe and responsible use                    | Co-creating ethical rules                   |
-| **3. AI foundations and applications**   | Basic AI techniques and applications     | Application skills                          | Creating with AI                            |
-| **4. AI pedagogy**                       | AI-assisted teaching                     | AI–pedagogy integration                     | AI-enhanced pedagogical transformation      |
-| **5. AI for professional development**   | AI enabling lifelong professional learning | AI to enhance organizational learning      | AI to support professional transformation   |
+| **1. Human-centred mindset**             | _Human agency_                             | _Human accountability_                        | _Social responsibility_                       |
+| **2. Ethics of AI**                      | _Ethical principles_                       | _Safe and responsible use_                    | _Co-creating ethical rules_                   |
+| **3. AI foundations and applications**   | _Basic AI techniques and applications_     | _Application skills_                          | _Creating with AI_                            |
+| **4. AI pedagogy**                       | _AI-assisted teaching_                     | _AI–pedagogy integration_                     | _AI-enhanced pedagogical transformation_      |
+| **5. AI for professional development**   | _AI enabling lifelong professional learning_ | _AI to enhance organizational learning_      | _AI to support professional transformation_   |
 
 ## 4. Structure of the AI CFT
 - The framework is a two-dimensional matrix.
