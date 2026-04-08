@@ -16,13 +16,13 @@
 3) A human-centred approach to AI
    - _human-centred, teacher agency, responsibility, critical evaluation, ethical use_
 5) Protecting teachers’ rights and iteratively (re)defining teachers’ roles
-   -_teacher autonomy, professional role, AI as support, not replacement, capacity building_
+   - _teacher autonomy, professional role, AI as support, not replacement, capacity building_
 7) Promoting trustworthy and environmentally sustainable AI for education
-   -_trustworthy AI, safety, bias awareness, sustainability, ethical selection_
+   - _trustworthy AI, safety, bias awareness, sustainability, ethical selection_
 9) Ensuring applicability for all teachers
-   -_accessibility, scalability, adaptability, digital evolution, continuous learning_
+   - _accessibility, scalability, adaptability, digital evolution, continuous learning_
 11) Lifelong professional learning for teachers
-   -_lifelong learning, reflection, professional growth, AI-supported learning, continuous development_
+   - _lifelong learning, reflection, professional growth, AI-supported learning, continuous development_
 ## The AI competency framework high-level structure: aspects and progression levels
 | Aspects                              | **Acquire**                                  | **Deepen**                                      | **Create**                                      |
 |--------------------------------------|------------------------------------------|---------------------------------------------|---------------------------------------------|
