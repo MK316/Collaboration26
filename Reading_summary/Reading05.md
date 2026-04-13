@@ -1,12 +1,11 @@
 # 🌏 Systematic review of research - Where are the educators?
 
 ## 1️⃣  Background 🌸
-- Artificial Intelligence in Education (AIEd) has recently become one of the fastest-growing areas in educational technology. Although AI has been studied for more than 30 years, educators are still uncertain about how AI can be used pedagogically and how it can meaningfully impact teaching and learning in higher education. Therefore, the purpose of this study is to provide a systematic review of research on AI applications in higher education and to examine how AI is currently being used in educational contexts.
-1) How has research on AI in higher education developed over time?
-2) How is AI conceptualised in education and what ethical issues are discussed?
-3) What are the main areas in which AI is applied in higher education?
-- AI is not a single technology but an umbrella term that includes various technologies such as: Machine learning, Natural language processing, Neural networks, Data mining, Intelligent agents. A key concept in AI is the idea of an intelligent agent, which perceives its environment and acts upon it. In education, AI systems can simulate 
-some functions of teachers, tutors, or learning systems.
+- Artificial Intelligence in Education is a rapidly growing field, but its pedagogical use in higher education remains unclear. This study reviews how AI is researched and applied in higher education.
+1) How has AIEd research developed over time?
+2) How is AI conceptualised, and what ethical issues are discussed?
+3) Where is AI applied in higher education?
+⇒ AI includes Machine Learning, NLP, Neural Networks, Data Mining, and Intelligent Agents. An intelligent agent perceives and acts on its environment. In education, AI can simulate roles of teachers or tutors.
 
 ## 2️⃣   Method 🌹
 1) Data collection process 📗
