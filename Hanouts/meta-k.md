@@ -4,14 +4,11 @@
 
 ### 1. 메타분석이란 무엇인가
 
-메타분석(meta-analysis)은 여러 개별 연구의 결과를 효과크기(effect size)라는 공통된 통계 지표로 변환하여 종합하는 연구 방법이다 (Glass, 1976; APA Dictionary of Psychology, 2018).
+메타분석(meta-analysis)은 여러 개별 연구의 결과를 효과크기(effect size)라는 공통된 통계 지표로 변환하여 종합하는 연구 방법이다 (Glass, 1976; [APA Dictionary of Psychology, 2018](https://dictionary.apa.org/meta-analysis)).
 
 전통적인 문헌고찰이 선행연구를 주로 서술적으로 정리하는 데 초점을 둔다면, 메타분석은 여러 연구를 통합하여 전체적인 효과의 크기와 방향을 살피고, 그 효과가 어떤 조건에서 달라지는지도 분석하려는 데 목적이 있다 (Borenstein et al., 2009).
 
 즉, 메타분석은 단순한 선행연구 요약이 아니라, 여러 연구 결과를 바탕으로 누적적 지식을 구성하려는 정량적 연구 종합 방법이라고 할 수 있다.
-
-온라인 링크:
-- APA Dictionary of Psychology, "Meta-analysis": https://dictionary.apa.org/meta-analysis
 
 ### 2. 메타분석의 역사
 
