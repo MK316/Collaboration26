@@ -10,9 +10,9 @@ This is a simple multi-language text-to-speech app made with Gradio and gTTS.
 
 | Tool | Main function |
 |---|---|
-| Gradio | Build a simple interactive app with Python |
-| Streamlit | Build and also deploy a Python web app |
-| Hugging Face Spaces | Host and share apps online |
+| **Gradio** | Build a simple interactive app with Python |
+| **Streamlit** | Build and also deploy a Python web app |
+| **Hugging Face Spaces** | Host and share apps online |
 
 #### 2. Function comparisons to make a web app
 
