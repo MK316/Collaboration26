@@ -3,7 +3,7 @@
 This is a simple multi-language text-to-speech app made with Gradio and gTTS.
 
 + [Gradio](https://gradio.app) is a simple Python tool for building interactive web apps for machine learning or language-learning projects. It allows beginners to create apps with text boxes, buttons, audio, and images without needing complex web programming.
-+ [Huggingface](https://huggingface.co/spaces) is an online platform where people can share, test, and publish AI models and web apps. Students can use Hugging Face Spaces to upload and run Gradio apps on the web so that others can open and use them through a link.
++ [Huggingface](https://huggingface.co/spaces) is an online platform where people can share, test, and publish AI models and web apps.  Students can use Hugging Face Spaces to upload and run Gradio apps on the web so that others can open and use them through a link. 🐥 [sample](FrameAI4687/Omni-Video-Factory)
 + [Streamlit]() is a simple Python framework for building interactive web apps, especially for data exploration, education, and demos. It helps beginners turn Python scripts into usable web pages with buttons, text input boxes, charts, and media display, without needing advanced web development skills.
 
 #### 1. One-line guide
