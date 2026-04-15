@@ -1,4 +1,5 @@
-## 🌱 Mini project: making a language learning assisting application
+## 🌱 Mini project
+: Making a language learning assisting application
 
 + Practice: Weeks 7~8
 + Emoji link: 😊 [from rxaviers](https://gist.github.com/rxaviers/7360908)
