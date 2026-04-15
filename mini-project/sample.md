@@ -6,14 +6,11 @@ This is a simple multi-language text-to-speech app made with Gradio and gTTS.
 + [Huggingface](https://huggingface.co/spaces) is an online platform where people can share, test, and publish AI models and web apps. Students can use Hugging Face Spaces to upload and run Gradio apps on the web so that others can open and use them through a link.
 + [Streamlit]() is a simple Python framework for building interactive web apps, especially for data exploration, education, and demos. It helps beginners turn Python scripts into usable web pages with buttons, text input boxes, charts, and media display, without needing advanced web development skills.
 
-#### 1. Tool Functions
-
-| Tool | Main function |
-|---|---|
-| **Gradio** | Build a simple interactive app with Python |
-| **Streamlit** | Build and also deploy a Python web app |
-| **Hugging Face Spaces** | Host and share apps online |
-
+#### 1. One-line guide
+- **Gradio**: best for simple interactive apps, especially audio and AI demos  
+- **Hugging Face Spaces**: best for putting an app online and sharing it  
+- **Streamlit**: best for classroom tools, dashboards, and data-based apps
+  
 #### 2. Function comparisons to make a web app
 
 Difficulty scale:  
@@ -33,13 +30,6 @@ Difficulty scale:
 | Best fit for beginners making AI or media demo apps | 🟢 | 🟢 | 🟡 |
 | Best fit for beginners making classroom tools or data apps | 🟡 | 🟡 | 🟢 |
 
-## One-line guide
-- **Gradio**: best for simple interactive apps, especially audio and AI demos  
-- **Hugging Face Spaces**: best for putting an app online and sharing it  
-- **Streamlit**: best for classroom tools, dashboards, and data-based apps
-
-## App Link
-[Open the app on Hugging Face](https://huggingface.co/spaces/YOUR-USERNAME/YOUR-SPACE-NAME)
 
 ## What this app does
 - Type a short sentence
