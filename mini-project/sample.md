@@ -50,11 +50,12 @@ Difficulty scale:
 ```
 
 ```python
-import gradio as gr
-from gtts import gTTS
-import tempfile
-import os
+import gradio as gr          # for making a simple web app
+from gtts import gTTS        # for converting text into speech
+import tempfile              # for creating a temporary audio file
+import os                    # for working with file paths
 
+# language names and their code values
 LANGUAGE_OPTIONS = {
     "English": "en",
     "Korean": "ko",
@@ -62,48 +63,66 @@ LANGUAGE_OPTIONS = {
     "Spanish": "es"
 }
 
+# function to make speech audio from text
 def make_tts(text, language_name):
+    # check if the user entered any text
     if not text.strip():
         return None, "Please enter some text."
 
+    # get the language code from the selected language
     lang_code = LANGUAGE_OPTIONS[language_name]
 
     try:
+        # create TTS object with text and language
         tts = gTTS(text=text, lang=lang_code)
 
+        # make a temporary mp3 file
         with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp_file:
             temp_path = tmp_file.name
 
+        # save the speech audio into the file
         tts.save(temp_path)
+
+        # return the audio file path and message
         return temp_path, "Audio created successfully."
 
     except Exception as e:
+        # return error message if something goes wrong
         return None, f"Error: {e}"
 
+# build the app screen
 with gr.Blocks() as demo:
+    # app title and simple instruction
     gr.Markdown("# Multi-language TTS App")
     gr.Markdown("Type a sentence, choose a language, and generate speech.")
 
+    # text box for user input
     text_input = gr.Textbox(
         label="Text",
         placeholder="Type a short sentence here"
     )
 
+    # dropdown menu for language choice
     language_input = gr.Dropdown(
         choices=list(LANGUAGE_OPTIONS.keys()),
         value="English",
         label="Language"
     )
 
+    # button to start audio generation
     generate_btn = gr.Button("Generate Audio")
 
+    # output area for audio and message
     audio_output = gr.Audio(label="Audio Output")
     message_output = gr.Textbox(label="Message")
 
+    # connect button click to the TTS function
     generate_btn.click(
         fn=make_tts,
         inputs=[text_input, language_input],
         outputs=[audio_output, message_output]
     )
 
+# run the app
 demo.launch()
+
