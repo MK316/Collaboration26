@@ -125,7 +125,7 @@ with gr.Blocks() as demo:
 
 # run the app
 demo.launch()
-
+```
 # DIY on colab
 
 [Goto Colab](https://colab.research.google.com/)
