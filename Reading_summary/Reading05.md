@@ -11,7 +11,7 @@ An intelligent agent perceives and acts on its environment.
 In education, AI can simulate roles of teachers or tutors.
 
 ## 2️⃣   Method 🌹
-1) Data collection process 📕
+### 1) Data collection process 📕
 
 | Category | Content |
 |----------|---------|
@@ -21,7 +21,7 @@ In education, AI can simulate roles of teachers or tutors.
 | After screening | 332 articles |
 | Final articles included | 146 articles |
 
-2) Inclusion Criteria 📗
+### 2) Inclusion Criteria 📗
 
 | Inclusion Criteria | Description |
 |--------------------|-------------|
@@ -30,7 +30,7 @@ In education, AI can simulate roles of teachers or tutors.
 | Research focus | AI applications in higher education |
 | Research type | Empirical primary research |
 
-3) Analysis Framework 📘
+### 3) Analysis Framework 📘
 
 | Analysis Category | Description |
 |-------------------|-------------|
