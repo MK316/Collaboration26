@@ -16,11 +16,11 @@ Applied Linguistics Spring 2026
 |--|--|--|--|--|--|--|--|
 |Mar. 18|Reading #1 & Reading #2|Translanguaging; Alignment issues||||||
 |Mar. 25|Reading #3|Computational Thinking (CT)|G1|G3|[link](https://github.com/MK316/Collaboration26/blob/main/Reading_summary/Reading03.md)|[link](https://github.com/MK316/Collaboration26/blob/main/infographic/Reading03_infographic.png)|[link](https://youtu.be/bRVTDYAfj3M)|
-|Apr. 1|Reading #4|AI in education|G2|G1|[link](https://github.com/MK316/Collaboration26/blob/main/Reading_summary/Reading04.md)|[link](https://github.com/MK316/Collaboration26/blob/main/infographic/Reading04_infographic.png)|[link](https://youtu.be/eehiwV8_3fQ)|
-|Apr. 8|Reading #5|AI in education, [meta analysis](https://github.com/MK316/Collaboration26/blob/main/Hanouts/meta.md) [meta-k](https://github.com/MK316/Collaboration26/blob/main/Hanouts/meta-k.md)|G3|G2|[link](https://github.com/kwonsungja/ksj26/blob/main/Reading05.md)|[link](https://github.com/MK316/Collaboration26/blob/main/infographic/Reading05_infographic.png)|[link](https://www.youtube.com/watch?v=4Ino7xIV8So)|
-|Apr. 15|Reading #6|AI from translanguaging|G1|G3||||
-|Apr. 22|Reading #7|strategic engagement|G2|G1||||
-|Apr. 29|Reading #8|TPACK framework <br> Technological Pedagogical Content Knowledge|G3|G1||||
+|Apr. 8|Reading #4|AI in education|G2|G1|[link](https://github.com/MK316/Collaboration26/blob/main/Reading_summary/Reading04.md)|[link](https://github.com/MK316/Collaboration26/blob/main/infographic/Reading04_infographic.png)|[link](https://youtu.be/eehiwV8_3fQ)|
+|Apr. 15|Reading #5|AI in education, [meta analysis](https://github.com/MK316/Collaboration26/blob/main/Hanouts/meta.md) [meta-k](https://github.com/MK316/Collaboration26/blob/main/Hanouts/meta-k.md)|G3|G2|[link](https://github.com/kwonsungja/ksj26/blob/main/Reading05.md)|[link](https://github.com/MK316/Collaboration26/blob/main/infographic/Reading05_infographic.png)|[link](https://www.youtube.com/watch?v=4Ino7xIV8So)|
+|Apr. 22|Reading #6|AI from translanguaging|G1|G3||||
+|Apr. 29|Reading #7|strategic engagement|G2|G1||||
+|TBA|Reading #8|TPACK framework <br> Technological Pedagogical Content Knowledge|G3|G1||||
 
 ### 👫 Groups
 
