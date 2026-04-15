@@ -23,22 +23,15 @@ Difficulty scale:
 
 | Item | Gradio | Hugging Face Spaces | Streamlit |
 |---|---|---|---|
-| Main role | App-building tool | Deployment platform | App-building tool |
-| Write Python code | 🟢 | ⚪ | 🟢 |
-| Run code locally | 🟢 | ⚪ | 🟢 |
-| Make UI with simple code | 🟢 | ⚪ | 🟢 |
-| Build audio apps | 🟢 | 🟡 | 🟡 |
-| Build data dashboard apps | 🟡 | ⚪ | 🟢 |
-| Upload and deploy on the web | 🟡 | 🟢 | 🟡 |
-| Share with a public link | ⚪ | 🟢 | 🟡 |
-| Beginner setup | 🟢 | 🟢 | 🟢 |
-| Need GitHub connection | ⚪ | 🟡 | 🟡 |
-| Best for AI demo apps | 🟢 | 🟢 | 🟡 |
-| Best for classroom tool apps | 🟡 | 🟡 | 🟢 |
-| Fine design control | 🟡 | ⚪ | 🟡 |
-| Large data/table display | 🟡 | ⚪ | 🟢 |
-| Fast first prototype | 🟢 | 🟢 | 🟢 |
-| Good for non-coders | 🟢 | 🟢 | 🟡 |
+| Main role | App-building framework | Hosting / deployment platform | App-building framework |
+| Write Python code for the app | 🟢 | ⚪ | 🟢 |
+| Run the app locally | 🟢 | ⚪ | 🟢 |
+| Make a simple UI with little code | 🟢 | ⚪ | 🟢 |
+| Audio input/output apps | 🟢 | ⚪ | 🟡 |
+| Data tables / charts / dashboard-style apps | 🟡 | ⚪ | 🟢 |
+| Put the app on the web | 🟡 | 🟢 | 🟡 |
+| Best fit for beginners making AI or media demo apps | 🟢 | 🟡 | 🟡 |
+| Best fit for beginners making classroom tools or data apps | 🟡 | 🟡 | 🟢 |
 
 ## One-line guide
 - **Gradio**: best for simple interactive apps, especially audio and AI demos  
