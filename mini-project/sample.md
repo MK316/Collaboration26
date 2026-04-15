@@ -11,15 +11,14 @@ This is a simple multi-language text-to-speech app made with Gradio and gTTS.
 | Tool | Main function |
 |---|---|
 | Gradio | Build a simple interactive app with Python |
-| Streamlit | Build a Python web app, especially for data or classroom tools |
-| Hugging Face Spaces | Host and share the app online |
+| Streamlit | Build and also deploy a Python web app |
+| Hugging Face Spaces | Host and share apps online |
 
 #### 2. Function comparisons to make a web app
 
 Difficulty scale:  
 - 🟢 Easy = very beginner-friendly  
-- 🟡 Medium = possible, but needs some learning  
-- 🔴 Hard = less suitable for beginners  
+- 🟡 Moderate = possible, but needs some learning  
 - ⚪ Not the main role
 
 | Item | Gradio | Hugging Face Spaces | Streamlit |
@@ -30,7 +29,7 @@ Difficulty scale:
 | Make a simple UI with little code | 🟢 | ⚪ | 🟢 |
 | Audio input/output apps | 🟢 | ⚪ | 🟡 |
 | Data tables / charts / dashboard-style apps | 🟡 | ⚪ | 🟢 |
-| Put the app on the web | 🟡 | 🟢 | 🟡 |
+| Put the app on the web | 🟡 | 🟢 | 🟢 |
 | Best fit for beginners making AI or media demo apps | 🟢 | 🟢 | 🟡 |
 | Best fit for beginners making classroom tools or data apps | 🟡 | 🟡 | 🟢 |
 
