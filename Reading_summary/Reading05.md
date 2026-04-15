@@ -44,7 +44,7 @@ In education, AI can simulate roles of teachers or tutors.
 
 ## 3️⃣   Results 🌿
 - Research disciplines and research methods
-1) Research disciplines 🎯  
+### 1) Research disciplines 🎯  
    Most AI in education research was conducted not by education      
    researchers but by computer science researchers.
    
@@ -56,7 +56,7 @@ In education, AI can simulate roles of teachers or tutors.
 
 → This shows that very few studies were conducted by education specialists.
 
-2) Research methods 🎨
+### 2) Research methods 🎨
 
 | Method | Percentage |
 |:------:|:----------:|
@@ -71,7 +71,7 @@ In education, AI can simulate roles of teachers or tutors.
 The review identified four main areas where AI is applied in higher education.
 AI applications support the entire student life-cycle by addressing both institutional and administrative services and academic support services. Two main areas demonstrate fundamentally distinct purposes:
 
-1) Profiling and Prediction 😊
+### 1) Profiling and Prediction 😊
    
    :This area utilizes machine learning to classify patterns and forecast future behavior.
  
@@ -80,7 +80,7 @@ AI applications support the entire student life-cycle by addressing both institu
 
  - Student models and academic achievement: By analysing behavioural process data, these applications predict student engagement and academic motivation. This creates an intelligent predictive system that enables instructors to automatically identify low-engaged students and make a proactive intervention.
 
-2) Intelligent Tutoring Systems (ITS) 😃
+### 2) Intelligent Tutoring Systems (ITS) 😃
    
    : ITS utilize learner models and algorithms to simulate one-to-one personal tutoring, outperforming traditional classroom instruction by providing direct pedagogical support.
 
@@ -92,7 +92,7 @@ AI applications support the entire student life-cycle by addressing both institu
 
  - Facilitating collaboration: ITS support online collaborative discussions and writing by generating automatic questions and feedback, guiding students through social interaction.
 
-3) Assessment and Evaluation 😁
+### 3) Assessment and Evaluation 😁
    
 AI is also widely used in assessment and evaluation.
 Examples include: Automated Essay Scoring (AES), Automated grading systems, Plagiarism detection, Learning analytics dashboards, Sentiment analysis of student feedback. Some automated essay scoring systems show very high agreement with human grading (about 94–98%).
