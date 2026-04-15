@@ -1,5 +1,5 @@
 ## 🌱 Mini project
-: Making a language learning assisting application
+: Making a language learning assisting application [source link](https://github.com/MK316/Collaboration26/blob/main/mini-project/readme.md)
 
 + Practice: Weeks 7~8
 + Emoji link: 😊 [from rxaviers](https://gist.github.com/rxaviers/7360908)
