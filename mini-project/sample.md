@@ -44,6 +44,10 @@ Difficulty scale:
 - Spanish
 
 ## Simple source code
+```python
+# Installation
+!pip install gradio gTTS
+```
 
 ```python
 import gradio as gr
