@@ -6,12 +6,13 @@ This is a simple multi-language text-to-speech app made with Gradio and gTTS.
 + [Huggingface](https://huggingface.co/spaces) is an online platform where people can share, test, and publish AI models and web apps. Students can use Hugging Face Spaces to upload and run Gradio apps on the web so that others can open and use them through a link.
 + [streamlit]() is a simple Python framework for building interactive web apps, especially for data exploration, education, and demos. It helps beginners turn Python scripts into usable web pages with buttons, text input boxes, charts, and media display, without needing advanced web development skills.
 
-#### 1. Tool description
-| Tool | What it is | Best for | Strength |
-|---|---|---|---|
-| Gradio | A Python tool for building simple interactive apps | AI demos, language apps, audio/image input-output | Very easy for model-based apps |
-| Hugging Face | An online platform for sharing AI models and apps | Publishing and testing apps online | Easy web hosting through Spaces |
-| Streamlit | A Python framework for making web apps from scripts | Data apps, dashboards, classroom tools | Very simple for Python-based app building |
+#### 1. Tool Functions
+
+| Tool | Main function |
+|---|---|
+| Gradio | Build a simple interactive app with Python |
+| Streamlit | Build a Python web app, especially for data or classroom tools |
+| Hugging Face Spaces | Host and share the app online |
 
 #### 2. Function comparisons to make a web app
 
@@ -19,7 +20,7 @@ Difficulty scale:
 - 🟢 Easy = very beginner-friendly  
 - 🟡 Medium = possible, but needs some learning  
 - 🔴 Hard = less suitable for beginners  
-- ⚪ No = not mainly designed for this
+- ⚪ Not the main role
 
 | Item | Gradio | Hugging Face Spaces | Streamlit |
 |---|---|---|---|
@@ -30,7 +31,7 @@ Difficulty scale:
 | Audio input/output apps | 🟢 | ⚪ | 🟡 |
 | Data tables / charts / dashboard-style apps | 🟡 | ⚪ | 🟢 |
 | Put the app on the web | 🟡 | 🟢 | 🟡 |
-| Best fit for beginners making AI or media demo apps | 🟢 | 🟡 | 🟡 |
+| Best fit for beginners making AI or media demo apps | 🟢 | 🟢 | 🟡 |
 | Best fit for beginners making classroom tools or data apps | 🟡 | 🟡 | 🟢 |
 
 ## One-line guide
