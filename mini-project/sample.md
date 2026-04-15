@@ -2,8 +2,8 @@
 
 This is a simple multi-language text-to-speech app made with Gradio and gTTS.
 
-+ [Gradio](https://gradio.app)
-+ [Huggingface](https://huggingface.co/spaces)
++ [Gradio](https://gradio.app) is a simple Python tool for building interactive web apps for machine learning or language-learning projects. It allows beginners to create apps with text boxes, buttons, audio, and images without needing complex web programming.
++ [Huggingface](https://huggingface.co/spaces) is an online platform where people can share, test, and publish AI models and web apps. Students can use Hugging Face Spaces to upload and run Gradio apps on the web so that others can open and use them through a link.
 
 ## App Link
 [Open the app on Hugging Face](https://huggingface.co/spaces/YOUR-USERNAME/YOUR-SPACE-NAME)
