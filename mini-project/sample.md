@@ -23,7 +23,7 @@ Difficulty scale:
 - ⚪ Not the main role
 
 | Item | Gradio | Hugging Face Spaces | Streamlit |
-|---|---|---|---|
+|---|:---:|:---:|:---:|
 | Main role | App-building framework | Hosting / deployment platform | App-building framework |
 | Write Python code for the app | 🟢 | ⚪ | 🟢 |
 | Run the app locally | 🟢 | ⚪ | 🟢 |
