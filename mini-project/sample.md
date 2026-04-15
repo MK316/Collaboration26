@@ -2,8 +2,8 @@
 
 This is a simple multi-language text-to-speech app made with Gradio and gTTS.
 
-+ [Gradio](https://gradio.co)
-+ [Huggingface](https://huggingface.co)
++ [Gradio](https://gradio.app)
++ [Huggingface](https://huggingface.co/spaces)
 
 ## App Link
 [Open the app on Hugging Face](https://huggingface.co/spaces/YOUR-USERNAME/YOUR-SPACE-NAME)
