@@ -45,8 +45,7 @@ In education, AI can simulate roles of teachers or tutors.
 ## 3️⃣   Results 🌿
 - Research disciplines and research methods
 ### 1) Research disciplines 🎯  
-   Most AI in education research was conducted not by education      
-   researchers but by computer science researchers.
+   Most AI in education research was conducted not by education researchers but by computer science researchers.
    
 | Discipline | Number of Articles |
 |:----------:|:-----------------:|
