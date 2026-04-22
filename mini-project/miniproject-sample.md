@@ -1,5 +1,5 @@
 
-# Sentence-by-Sentence TTS Reader
+# 🌀 Sentence-by-Sentence TTS Reader
 
 ## 1. App Purpose
 This app is designed to support reading and listening practice for language learners.  
