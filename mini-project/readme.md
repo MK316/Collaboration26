@@ -25,6 +25,9 @@
    - possible **classroom use**
    - any **difficulty or limitation**
    - ideas for **future improvement**
+   - Code blocks used (code blocks will start with ``` and end with ```)
+   - Describe which Generative AI tool (e.g., ChatGPT, Gemini, Claude) you used and for what specific purpose.
+     
 4. Create a simple English learning or teaching app.  
 5. Deploy the app on **Streamlit**.  
 6. Share both links in the class table:
