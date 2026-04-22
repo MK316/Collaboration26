@@ -25,7 +25,7 @@
    - possible **classroom use**
    - any **difficulty or limitation**
    - ideas for **future improvement**
-   - Code blocks used (code blocks will start with ````````` and end with `````````)
+   - link the app.py file in the description page
    - Describe which Generative AI tool (e.g., ChatGPT, Gemini, Claude) you used and for what specific purpose.
      
 4. Create a simple English learning or teaching app.  
