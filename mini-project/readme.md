@@ -13,9 +13,9 @@
 
 ### 📒 Instructions
 
-#### Mini Project: English Learning App
+#### Mini Project: English Learning App (Due by 4/28)
 
-1. Create a GitHub repository named **G1-miniproject**.  
+1. Create a GitHub repository named **G1-miniproject**. (This is a collaborative project)  
 2. In the repository, make a `README.md` file.  
 3. In the `README.md`, write a short **App Design Description**. Include:
    - the **purpose** of the app
@@ -33,7 +33,7 @@
 
 ### ✏️ Simple Guideline for Writing
 
-Your description does not need to be long.  
+Your description (readme.md) does not need to be long.  
 Write clearly and briefly so that a reader can understand:
 
 - what your app is for
