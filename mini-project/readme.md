@@ -26,7 +26,7 @@
    - any **difficulty or limitation**
    - ideas for **future improvement**
 4. Create a simple English learning or teaching app.  
-5. Deploy the app on **Hugging Face**.  
+5. Deploy the app on **Streamlit**.  
 6. Share both links in the class table:
    - **Description link**
    - **APP link**
