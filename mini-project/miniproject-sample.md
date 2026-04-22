@@ -55,7 +55,7 @@ This app could be improved by adding:
 - vocabulary support for difficult words
 
 ## 9. App Link
-Add your deployed app link here.
+[APP link](https://textreading.streamlit.app/): https://textreading.streamlit.app/
 
 ## 10. Reflection
 Through this project, I learned how a simple coding-based app can support language learning.  
