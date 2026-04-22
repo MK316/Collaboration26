@@ -12,6 +12,7 @@
 |G2|최지현, 조재민|||
 |G3|권성자, 박아진, 최시경|||
 
+---
 ### 📒 Instructions
 
 #### Mini Project: English Learning App (Due by 4/28)
