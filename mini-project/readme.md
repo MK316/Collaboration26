@@ -7,6 +7,7 @@
 
 |Group|Members|Description link|APP link|
 |--|--|--|--|
+|G0|Sample|[readme.md](https://github.com/MK316/Collaboration26/blob/main/mini-project/miniproject-sample.md)|[APP link](https://textreading.streamlit.app/)
 |G1|정우창, 강동경|||
 |G2|최지현, 조재민|||
 |G3|권성자, 박아진, 최시경|||
