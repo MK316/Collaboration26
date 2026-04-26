@@ -8,7 +8,7 @@
 |Group|Members|Github ID|Description link|APP link|
 |--|--|--|--|--|
 |G0|Sample|mk316|[readme.md](https://github.com/MK316/Collaboration26/blob/main/mini-project/miniproject-sample.md)|[APP link](https://textreading.streamlit.app/)
-|G1|정우창, 강동경||||
+|G1|정우창, 강동경|[readme.md](https://github.com/Alexwcjung/Mini_project/blob/main/README.md))|[[APP link](https://miniproject-epfq3zrjqsersgbtoxy8t2.streamlit.app/)||
 |G2|최지현, 조재민||||
 |G3|권성자, 박아진, 최시경||||
 
