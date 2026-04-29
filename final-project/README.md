@@ -20,6 +20,18 @@ Your project should demonstrate:
 - reflective teacher agency
 
 ---
+### 💎 Presentation schedule
+
+||Date|Name|Github ID|Topic|Video intro (2 mins)|
+|--|--|--|--|--|--|
+|1|6/10|정우창||||
+|2|6/10|권성자||||
+|3|6/10|최시경||||
+|4|6/17|최지현||||
+|5|6/17|강동경||||
+|6|6/17|조재민||||
+|7|6/17|박아진||||
+
 
 ### 💎 Required Project Components
 
