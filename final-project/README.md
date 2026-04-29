@@ -162,7 +162,7 @@ Presentation time: 15 minutes
 
 ### 6. Peer Feedback
 
-Review classmates’ projects.
+Review classmates’ projects. Constructive comments are expected. Please review your classmates’ projects thoughtfully and constructively.
 
 Focus on:
 
@@ -172,8 +172,6 @@ Focus on:
 - classroom feasibility
 - creativity
 - improvement suggestions
-
-Constructive comments are expected. Please review your classmates’ projects thoughtfully and constructively.
 
 **Peer Feedback Questions:** (using [Google Form](https://forms.gle/ho9qdRtQvpaRDjVr5))
 
