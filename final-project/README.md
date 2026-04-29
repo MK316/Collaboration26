@@ -1,4 +1,5 @@
-# 📕 Final Project: Designing Adaptive English Lessons with Customized Apps
+# 📕 Designing Adaptive English Lessons with Customized Apps
+
 
 ## Project Goal
 
