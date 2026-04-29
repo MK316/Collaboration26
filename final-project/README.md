@@ -31,7 +31,7 @@ Your project should demonstrate:
 |6|6/17|조재민||||
 |7|6/17|박아진||||
 
-Note: 4 Language skills can be represented with R, W, L, S or ALL in the table.
+_Note_: 4 Language skills can be represented with R, W, L, S or ALL in the table.
 
 ### 💎 Required Project Components
 
