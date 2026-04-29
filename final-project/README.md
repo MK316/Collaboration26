@@ -1,96 +1,200 @@
-# 📕 Final Project: Customized App-Based English Lesson Design
+# 📕 Final Project: Designing Adaptive English Lessons with Customized Apps
 
 ## Project Goal
 
-Design a 50-minute English lesson for your own teaching context using a customized Streamlit web app.
+Design a 50-minute English lesson for your own teaching context by creating a customized web application using Streamlit.
 
-Your project should show how digital literacy and applied linguistics can support English teaching and learning in a practical classroom setting.
+The purpose of this project is to explore how English teachers can move beyond using ready-made tools and instead design adaptive digital learning experiences that respond to learners’ needs, classroom goals, and local teaching contexts.
 
-## Required Components
+Your project should demonstrate:
 
-### 1. GitHub Repository
-Create a GitHub repository for your final project. Your repository should include:
+- learner-centered lesson design
+- meaningful use of digital tools
+- adaptation to your teaching environment
+- pedagogically grounded app creation
+- reflective teacher agency
 
-- `README.md`
-- app code file, such as `app.py`
-- `requirements.txt`
-- lesson plan file or link
-- deployed Streamlit app link
+---
 
-### 2. Streamlit App
-Create a simple customized web app for English teaching or learning.
+## Required Project Components
 
-Your app may support:
+You will complete and share the following:
 
-- vocabulary learning
-- pronunciation practice
-- listening practice
-- reading support
-- writing feedback
-- grammar practice
-- speaking preparation
-- classroom interaction
-- learner reflection
+1. GitHub repository  
+2. README.md project description  
+3. Streamlit app deployment link  
+4. 50-minute lesson plan  
+5. In-class presentation  
+6. Peer feedback  
+7. Final reflection essay or research squib
 
-The app does not need to be technically complex. It should be meaningful, usable, and connected to your lesson goal.
+---
 
-### 3. Lesson Plan
-Write a 50-minute lesson plan for your designated focus class.
+## 1. GitHub Repository
+
+Create a GitHub repository for your final project.
+
+Your repository should include:
+
+- README.md
+- app.py
+- requirements.txt
+- lesson materials (if needed)
+- deployed app link
+
+Repository title example:
+
+Adaptive-English-Lesson-Project
+
+---
+
+## 2. Customized App
+
+Create a simple but meaningful Streamlit application that supports English teaching or learning.
+
+Examples:
+
+- vocabulary learning app
+- pronunciation practice app
+- listening comprehension support app
+- speaking preparation tool
+- writing support app
+- grammar discovery app
+- classroom interaction tool
+- learner reflection tool
+
+The app should be:
+
+- useful
+- learner-friendly
+- context-sensitive
+- clearly connected to lesson objectives
+
+Technical complexity is less important than pedagogical usefulness.
+
+---
+
+## 3. 50-Minute Lesson Plan
+
+Design a complete 50-minute lesson.
 
 Include:
 
-- target learners
+- learner profile
+- class setting
 - lesson topic
 - learning objectives
-- language focus
-- materials and digital tools
-- lesson procedure
-- teacher role
+- target language
+- teaching procedure
 - student activities
-- app use
-- assessment or feedback method
+- teacher role
+- app integration
+- feedback or assessment
 - expected learning outcome
 
-### 4. README.md Description
-Your README.md should explain:
+The lesson should show how the customized app supports adaptive learning.
 
-- purpose of the app
-- target learners
-- teaching context
-- data or content used
-- how the app supports learning
-- how it is used in the lesson
-- limitations
-- future improvement ideas
+---
 
-### 5. Presentation
-Give a short in-class presentation about your project.
+## 4. README.md Project Description
 
-Explain:
+Your GitHub README should clearly explain:
 
-- your teaching context
-- your lesson goal
-- your app design
-- how students use the app
-- what learning problem the app addresses
-- what you learned from the design process
+### Teaching Context
+- Who are your learners?
+- What is your classroom environment?
+- What challenges do learners have?
 
-### 6. Peer Feedback
-Review your classmates’ projects and give constructive feedback.
+### Lesson Purpose
+- What does this lesson teach?
+- Why is this lesson meaningful?
+
+### App Purpose
+- Why did you build this app?
+- What learning need does it address?
+
+### App Design
+- How does it work?
+- What data or content does it use?
+- How do learners interact with it?
+
+### Classroom Use
+- How is the app used in the lesson?
+- What does it improve?
+
+### Limitations
+- What are current limitations?
+
+### Future Development
+- What could be improved?
+
+---
+
+## 5. In-Class Presentation
+
+Present your project in class.
+
+Presentation should include:
+
+1. teaching context  
+2. learning problem or need  
+3. lesson overview  
+4. app demonstration  
+5. classroom use  
+6. expected learner benefits  
+7. limitations and future improvement
+
+Presentation time: 8–10 minutes
+
+---
+
+## 6. Peer Feedback
+
+Review classmates’ projects.
 
 Focus on:
 
-- clarity of lesson goal
+- lesson clarity
+- learner-centeredness
 - usefulness of the app
-- connection between app and lesson
-- feasibility in a real classroom
-- possible improvement
+- classroom feasibility
+- creativity
+- improvement suggestions
 
-### 7. Reflection Essay or Research Squib
-Choose one of the following:
+Constructive comments are expected.
 
-Option A. Reflection Essay  
-Write about app-based teaching and learning in your own educational environment.
+---
 
-Option B. Research Squib  
-Write a short research idea that could be developed from your project in the future.
+## 7. Final Writing Task
+
+Choose one:
+
+### Option A — Reflection Essay
+Write a reflection on:
+
+App-based English teaching and learning in your own teaching environment.
+
+Possible themes:
+
+- classroom practicality
+- learner engagement
+- adaptation challenges
+- digital literacy
+- teacher role
+- future use
+
+Length: 2–3 pages
+
+### Option B — Research Squib
+Write a short research proposal inspired by your project.
+
+Include:
+
+- topic
+- teaching issue
+- research question
+- participants
+- possible data
+- possible contribution
+
+Length: 2–3 pages
