@@ -7,6 +7,9 @@ Design a 50-minute English lesson for your own teaching context by creating a cu
 
 The purpose of this project is to explore how English teachers can move beyond using ready-made tools and instead design adaptive digital learning experiences that respond to learners’ needs, classroom goals, and local teaching contexts.
 
+As you design your lesson, think carefully about how language is naturally learned. Consider how learners meaningfully notice, practice, use, and revisit English in ways that promote engagement, interaction, reflection, and gradual development rather than one-time activity completion.
+
+Most importantly, explain how and why your lesson is expected to work. Your project should make clear the pedagogical reasoning behind your design choices, including why the customized app is useful for your learners, how it supports the learning process, and why your approach fits your specific classroom context.
 Your project should demonstrate:
 
 - learner-centered lesson design
