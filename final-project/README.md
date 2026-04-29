@@ -16,7 +16,7 @@ Your project should demonstrate:
 - learner-centered lesson design
 - **effective** and **pedagogically grounded** use of digital tools for your students’ learning
 - adaptation to your teaching environment
-- pedagogically grounded app creation (minimum of 3 apps)
+- pedagogically grounded app creation (minimum of 2~3 apps)
 - reflective teacher agency
 
 ---
