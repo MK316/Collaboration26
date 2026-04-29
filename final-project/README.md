@@ -31,7 +31,7 @@ Your project should demonstrate:
 |6|6/17|조재민||||
 |7|6/17|박아진||||
 
-[^1] 4 Language skills: R, W, L, S or ALL
+[^1]: 4 Language skills: R, W, L, S or ALL
 
 ### 💎 Required Project Components
 
