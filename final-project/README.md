@@ -78,7 +78,7 @@ Examples:
 The app should be:
 
 - useful
-- learner-friendly
+- learner-friendly (guiding and scaffolding)
 - context-sensitive
 - clearly connected to lesson objectives
 
