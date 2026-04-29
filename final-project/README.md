@@ -34,7 +34,7 @@ You will complete and share the following:
 **Part II:**
 
 5. In-class presentation (15 minutes) + discussion (10 minutes)  
-7. Peer feedback (written format): after presentations  ([Feedback link]())
+7. Peer feedback (written format): after presentations  ([Feedback writeup link]())
 
 **Part III:**
 8. Final reflection essay or research squib
