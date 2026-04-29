@@ -32,8 +32,9 @@ You will complete and share the following:
 5. 50-minute lesson plan: 📍**lessonplan.md**
 
 **Part II:**
-5. In-class presentation  
-7. Peer feedback: after presentations  
+
+5. In-class presentation (15 minutes) + discussion (10 minutes)  
+7. Peer feedback (written format): after presentations  ([Feedback link]())
 
 **Part III:**
 8. Final reflection essay or research squib
