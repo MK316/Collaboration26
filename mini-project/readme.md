@@ -5,12 +5,12 @@
 + Emoji link: 😊 [from rxaviers](https://gist.github.com/rxaviers/7360908)
 + 👫 Groups
 
-|Group|Members|Github ID|Description link|APP link|
-|--|--|--|--|--|
-|G0|Sample|mk316|[readme.md](https://github.com/MK316/Collaboration26/blob/main/mini-project/miniproject-sample.md)|[APP link](https://textreading.streamlit.app/)
-|G1|정우창, 강동경|Alexwcjung|[readme.md](https://github.com/Alexwcjung/Mini_project/blob/main/README.md)|[APP link](https://miniproject-epfq3zrjqsersgbtoxy8t2.streamlit.app/)
-|G2|최지현, 조재민|jhc0531|[readme.md](https://github.com/JHC0531/Mini-project/blob/main/README.md)|[APP link](https://verblearning.streamlit.app/)|
-|G3|권성자, 박아진, 최시경|kwonsungja|[readme.md](https://github.com/kwonsungja/MiniProject/blob/main/README.md)|[APP link](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/)|
+|Group|Members|Time|Github ID|Description link|APP link|
+|--|--|--|--|--|--|
+|G0|Sample||mk316|[readme.md](https://github.com/MK316/Collaboration26/blob/main/mini-project/miniproject-sample.md)|[APP link](https://textreading.streamlit.app/)
+|G1|정우창, 강동경|6:15~7:15|Alexwcjung|[readme.md](https://github.com/Alexwcjung/Mini_project/blob/main/README.md)|[APP link](https://miniproject-epfq3zrjqsersgbtoxy8t2.streamlit.app/)
+|G2|최지현, 조재민|7:15~8:00|jhc0531|[readme.md](https://github.com/JHC0531/Mini-project/blob/main/README.md)|[APP link](https://verblearning.streamlit.app/)|
+|G3|권성자, 박아진, 최시경|8:00~8:45|kwonsungja|[readme.md](https://github.com/kwonsungja/MiniProject/blob/main/README.md)|[APP link](https://miniproject-7xx9z2n9e35xhxyzygdyj7.streamlit.app/)|
 
 ---
 ### 📒 Instructions
