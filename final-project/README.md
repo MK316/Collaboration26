@@ -1,4 +1,4 @@
-# 📕 Final Project: App-Based English Lesson Design
+# 📕 Final Project: Customized App-Based English Lesson Design
 
 ## Project Goal
 
