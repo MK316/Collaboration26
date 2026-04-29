@@ -14,7 +14,7 @@ Most importantly, explain how and why your lesson is expected to work. Your proj
 Your project should demonstrate:
 
 - learner-centered lesson design
-- **pedagogically meaningful** use of digital tools
+- **effective** and **pedagogically grounded** use of digital tools for your students’ learning
 - adaptation to your teaching environment
 - pedagogically grounded app creation
 - reflective teacher agency
