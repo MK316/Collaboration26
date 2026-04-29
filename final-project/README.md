@@ -1,7 +1,7 @@
-# 📕 Designing Adaptive English Lessons with Customized Apps
+## 📕 Designing Adaptive English Lessons with Customized Apps
 
 
-## Project Goal
+### 💎 Project Goal
 
 Design a 50-minute English lesson for your own teaching context by creating a customized web application using Streamlit.
 
@@ -17,7 +17,7 @@ Your project should demonstrate:
 
 ---
 
-## Required Project Components
+### 💎 Required Project Components
 
 You will complete and share the following:
 
@@ -31,7 +31,7 @@ You will complete and share the following:
 
 ---
 
-## 1. GitHub Repository
+### 1. GitHub Repository
 
 Create a GitHub repository for your final project.
 
@@ -49,7 +49,7 @@ Adaptive-English-Lesson-Project
 
 ---
 
-## 2. Customized App
+### 2. Customized App
 
 Create a simple but meaningful Streamlit application that supports English teaching or learning.
 
@@ -75,7 +75,7 @@ Technical complexity is less important than pedagogical usefulness.
 
 ---
 
-## 3. 50-Minute Lesson Plan
+### 3. 50-Minute Lesson Plan
 
 Design a complete 50-minute lesson.
 
@@ -97,24 +97,24 @@ The lesson should show how the customized app supports adaptive learning.
 
 ---
 
-## 4. README.md Project Description
+### 4. README.md Project Description
 
 Your GitHub README should clearly explain:
 
-### Teaching Context
+#### Teaching Context
 - Who are your learners?
 - What is your classroom environment?
 - What challenges do learners have?
 
-### Lesson Purpose
+#### Lesson Purpose
 - What does this lesson teach?
 - Why is this lesson meaningful?
 
-### App Purpose
+#### App Purpose
 - Why did you build this app?
 - What learning need does it address?
 
-### App Design
+#### App Design
 - How does it work?
 - What data or content does it use?
 - How do learners interact with it?
@@ -123,15 +123,15 @@ Your GitHub README should clearly explain:
 - How is the app used in the lesson?
 - What does it improve?
 
-### Limitations
+#### Limitations
 - What are current limitations?
 
-### Future Development
+#### Future Development
 - What could be improved?
 
 ---
 
-## 5. In-Class Presentation
+### 5. In-Class Presentation
 
 Present your project in class.
 
@@ -149,7 +149,7 @@ Presentation time: 8–10 minutes
 
 ---
 
-## 6. Peer Feedback
+### 6. Peer Feedback
 
 Review classmates’ projects.
 
@@ -166,11 +166,11 @@ Constructive comments are expected.
 
 ---
 
-## 7. Final Writing Task
+### 7. Final Writing Task
 
 Choose one:
 
-### Option A — Reflection Essay
+#### Option A — Reflection Essay
 Write a reflection on:
 
 App-based English teaching and learning in your own teaching environment.
@@ -186,7 +186,7 @@ Possible themes:
 
 Length: 2–3 pages
 
-### Option B — Research Squib
+#### Option B — Research Squib
 Write a short research proposal inspired by your project.
 
 Include:
