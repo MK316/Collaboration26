@@ -86,7 +86,7 @@ Technical complexity is less important than pedagogical usefulness.
 
 ---
 
-### 3. 50-Minute Lesson Plan in 'lessonplan.md' file
+### 3. 50-Minute Lesson Plan: write this making a file named 'lessonplan.md' in the main branch of your github repository
 
 Design a complete 50-minute lesson.
 
