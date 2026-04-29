@@ -47,10 +47,11 @@ Create a GitHub repository for your final project.
 Your repository should include:
 
 - README.md
+- lessonplan.md
 - app.py
 - requirements.txt
 - lesson materials (if needed)
-- deployed app link
+- streamlit multi page files ('pages' folder)
 
 Repository title example:
 
@@ -84,7 +85,7 @@ Technical complexity is less important than pedagogical usefulness.
 
 ---
 
-### 3. 50-Minute Lesson Plan
+### 3. 50-Minute Lesson Plan in 'lessonplan.md' file
 
 Design a complete 50-minute lesson.
 
