@@ -34,7 +34,7 @@ You will complete and share the following:
 **Part II:**
 
 5. In-class presentation (15 minutes) + discussion (10 minutes)  
-7. Peer feedback (written format): after presentations  ([Feedback writeup link]())
+7. Peer feedback (written format): after presentations  ([Feedback writeup link](https://forms.gle/ho9qdRtQvpaRDjVr5))
 
 **Part III:**
 8. Final reflection essay or research squib
@@ -173,7 +173,19 @@ Focus on:
 - creativity
 - improvement suggestions
 
-Constructive comments are expected.
+Constructive comments are expected. Please review your classmates’ projects thoughtfully and constructively.
+
+**Peer Feedback Questions:** (using [Google Form](https://forms.gle/ho9qdRtQvpaRDjVr5))
+
+1. What was the main strength of this project?
+
+2. How effectively was the app connected to teaching and learning?
+
+3. Would this lesson work in a real classroom? Why or why not?
+
+4. What is one suggestion for improvement?
+
+5. Overall comment
 
 ---
 
