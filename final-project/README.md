@@ -49,7 +49,7 @@ Your repository should include:
 
 - README.md
 - lessonplan.md
-- app.py
+- app.py (or HOME.py)
 - requirements.txt
 - lesson materials (if needed)
 - streamlit multi page files ('pages' folder)
