@@ -21,7 +21,7 @@ Your project should demonstrate:
 
 ### 💎 Presentation schedule
 
-||Date|Name|Github ID|Language focus[^1]|V-intro link (2 mins)|
+||Date|Name|Github ID|Language focus|V-intro link (2 mins)|
 |--|--|--|--|--|--|
 |1|6/10|정우창||||
 |2|6/10|권성자||||
@@ -31,7 +31,7 @@ Your project should demonstrate:
 |6|6/17|조재민||||
 |7|6/17|박아진||||
 
-[^1]: 4 Language skills: R, W, L, S or ALL
+Note: 4 Language skills can be represented with R, W, L, S or ALL in the table.
 
 ### 💎 Required Project Components
 
