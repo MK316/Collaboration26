@@ -9,7 +9,7 @@ The purpose of this project is to explore how English teachers can move beyond u
 
 As you design your lesson, think carefully about how language is naturally learned. Consider how learners meaningfully notice, practice, use, and revisit English in ways that promote engagement, interaction, reflection, and gradual development rather than one-time activity completion.
 
-Most importantly, explain how and why your lesson is expected to work. Your project should make clear the pedagogical reasoning behind your design choices, including why the customized app is useful for your learners, how it supports the learning process, and why your approach fits your specific classroom context.
+Most importantly, explain how and why your lesson is expected to work. Your project should **make clear the pedagogical reasoning behind your design choices**, including why the customized app is useful for your learners, how it supports the learning process, and why your approach fits your specific classroom context.
 Your project should demonstrate:
 
 - learner-centered lesson design
