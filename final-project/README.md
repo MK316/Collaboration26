@@ -21,7 +21,7 @@ Your project should demonstrate:
 
 ### 💎 Presentation schedule
 
-||Date|Name|Github ID|Topic|V-intro link (2 mins)|
+||Date|Name|Github ID|Language focus|V-intro link (2 mins)|
 |--|--|--|--|--|--|
 |1|6/10|정우창||||
 |2|6/10|권성자||||
