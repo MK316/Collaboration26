@@ -25,13 +25,18 @@ Your project should demonstrate:
 
 You will complete and share the following:
 
-1. GitHub repository  
-2. README.md project description  
-3. Streamlit app deployment link  
-4. 50-minute lesson plan  
+**Part I:** 
+1. GitHub repository: name the repository as 'Myproject'  
+2. README.md project description: lesson descripion, lesson structure and links  
+3. Streamlit app deployment link: link these early as a table format with activities, duration, levels, and app link  
+4. 50-minute lesson plan : => README.md file 
+
+**Part II:**
 5. In-class presentation  
-6. Peer feedback  
-7. Final reflection essay or research squib
+7. Peer feedback: after presentations  
+
+**Part III:**
+8. Final reflection essay or research squib
 
 ---
 
