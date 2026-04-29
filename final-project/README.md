@@ -189,7 +189,7 @@ Focus on:
 
 ### 7. Final Writing Task
 
-#### 1) Reflection Essay
+#### 1) Reflection Essay (1 page length: pdf file format)
 Write a reflection on:
 
 App-based English teaching and learning in your own teaching environment.
@@ -205,16 +205,17 @@ Possible themes:
 
 Length: 1 page (write in Korean)
 
-#### 2) Research Squib
+#### 2) Research Squib (3~5 pages: pdf file format)
 Write a short research proposal inspired by your project.
 
 Include:
 
-- topic
-- teaching issue
+- title
+- teaching issue with a brief literature review
 - clear research question(s): max.2 questions
 - participants
 - possible data
 - possible contribution
+- Reference list
 
 Length: 3~5 pages
