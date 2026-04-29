@@ -19,7 +19,6 @@ Your project should demonstrate:
 - pedagogically grounded app creation (minimum of 2~3 apps)
 - reflective teacher agency
 
----
 ### 💎 Presentation schedule
 
 ||Date|Name|Github ID|Topic|V-intro link (2 mins)|
@@ -40,6 +39,7 @@ You will complete and share the following:
 **Part I:** 
 1. GitHub repository (📍Add 'mk316' as collaborator): name the repository as 📍'**Myproject**'  
 2. **📍README.md** project description: project descripion
+3. Video intro (2 min.): Provide a two-minute video introduction to your lesson, either self-recorded or AI-generated, at least 24 hours before your presentation.
 4. Streamlit app deployment link: link these early as a table format with activities, duration, levels, and app link  
 5. 50-minute lesson plan: 📍**lessonplan.md**
 
