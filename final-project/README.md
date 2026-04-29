@@ -26,7 +26,7 @@ Your project should demonstrate:
 You will complete and share the following:
 
 **Part I:** 
-1. GitHub repository: name the repository as 📍'**Myproject**'  
+1. GitHub repository (📍Add 'mk316' as collaborator): name the repository as 📍'**Myproject**'  
 2. **📍README.md** project description: project descripion
 4. Streamlit app deployment link: link these early as a table format with activities, duration, levels, and app link  
 5. 50-minute lesson plan: 📍**lessonplan.md**
