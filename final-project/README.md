@@ -156,7 +156,7 @@ Presentation should include:
 6. expected learner benefits  
 7. limitations and future improvement
 
-Presentation time: 8–10 minutes
+Presentation time: 15 minutes
 
 ---
 
