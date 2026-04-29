@@ -212,7 +212,7 @@ Include:
 
 - topic
 - teaching issue
-- research question
+- clear research question(s): max.2 questions
 - participants
 - possible data
 - possible contribution
