@@ -1,4 +1,4 @@
-## Project #1: Simple and learner-friendly vocabulary support
+## 🍰 Project #1: Simple and learner-friendly vocabulary support
 
 ### Strength Keywords
 vocabulary reinforcement · repetition · pronunciation practice · sound-picture-meaning connection · visual support · classroom applicability · retry design · level differentiation
@@ -12,7 +12,7 @@ Project #1 demonstrates balanced strength across all evaluation areas, particula
 ![img](https://github.com/MK316/Collaboration26/raw/main/images/p1.png)
 
 
-## Project #2: Practical grammar support for real classrooms
+## 🍨 Project #2: Practical grammar support for real classrooms
 
 ### Strength Keywords
 sentence structure · grammar awareness · verb patterns · self-directed learning · feedback · review · classroom practicality · personalized practice
@@ -24,10 +24,10 @@ Project #2 was especially valued for its clear pedagogical focus on sentence str
 ### Peer feedback radar profile
 Project #2 shows particularly strong performance in app design and pedagogical grounding, suggesting a well-structured tool built on clear educational reasoning. Its major strength is its practical classroom orientation, connecting grammatical knowledge with learner practice in ways that are both usable and instructionally relevant across contexts. To strengthen the project further, simplifying information flow and incorporating more interactive or game-like learning elements could increase learner motivation and make the app even more dynamic.
 
-![img](https://github.com/MK316/Collaboration26/raw/main/images/p1.png)
+![img](https://github.com/MK316/Collaboration26/raw/main/images/p2.png)
 
 
-## Project #3: Multi-layered reading support needing clearer learning boundaries
+## 🎂 Project #3: Multi-layered reading support needing clearer learning boundaries
 
 ### Strength Keywords
 scaffolded learning across levels · adaptability · API use · reading support · vocabulary information · self-study · learner autonomy · differentiated learning
@@ -38,5 +38,5 @@ Project #3 stood out for its ambitious scope and sophisticated design, particula
 
 ### Peer feedback radar profile
 Project #3 received the strongest overall evaluation, especially in design, educational usefulness, completion, and pedagogical depth, reflecting an ambitious and thoughtfully developed learning platform. Its greatest strength is its rich, multi-layered support for differentiated learning, learner autonomy, and adaptable instructional use. Moving forward, clarifying learning boundaries, simplifying content density, and organizing activities into more focused learning units would make its strong educational potential even more accessible and classroom-ready.
-![img](https://github.com/MK316/Collaboration26/raw/main/images/p1.png)
+![img](https://github.com/MK316/Collaboration26/raw/main/images/p3.png)
 
