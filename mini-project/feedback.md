@@ -38,5 +38,6 @@ Project #3 stood out for its ambitious scope and sophisticated design, particula
 
 ### Peer feedback radar profile
 Project #3 received the strongest overall evaluation, especially in design, educational usefulness, completion, and pedagogical depth, reflecting an ambitious and thoughtfully developed learning platform. Its greatest strength is its rich, multi-layered support for differentiated learning, learner autonomy, and adaptable instructional use. Moving forward, clarifying learning boundaries, simplifying content density, and organizing activities into more focused learning units would make its strong educational potential even more accessible and classroom-ready.
+
 ![img](https://github.com/MK316/Collaboration26/raw/main/images/p3.png)
 
