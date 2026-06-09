@@ -28,7 +28,7 @@ Your project should demonstrate:
 
 ||Date|Name|Github ID|Language focus|V-intro link (2 mins)|
 |--|--|--|--|--|--|
-|1|6/10|정우창|[Alexwcjung](https://github.com/Alexwcjung)|||
+|1|6/10|정우창|[Alexwcjung](https://github.com/Alexwcjung)|All|https://www.youtube.com/watch?v=mkiQJoR8sVQ|
 |2|6/10|권성자|[ksj26](https://github.com/kwonsungja)|||
 |3|6/10|최시경|[csk190](https://github.com/csk190)|||
 |4|6/17|최지현||||
