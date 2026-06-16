@@ -33,7 +33,7 @@ Your project should demonstrate:
 |3|6/10|최시경|[csk190](https://github.com/csk190)|||
 |4|6/17|최지현||[jhc0531](https://github.com/JHC0531)||
 |5|6/17|강동경|[dongkyung1208](https://github.com/dongkyung1208)|W|https://youtu.be/vYq_OTnPcd4|
-|6|6/17|조재민||||
+|6|6/17|조재민|[jjm912](https://github.com/JJM912)|||
 |7|6/17|박아진||||
 
 _Note_: 4 Language skills can be represented with R, W, L, S or ALL in the table.
