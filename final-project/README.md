@@ -31,7 +31,7 @@ Your project should demonstrate:
 |1|6/10|정우창|[Alexwcjung](https://github.com/Alexwcjung)|All|https://www.youtube.com/watch?v=mkiQJoR8sVQ|
 |2|6/10|권성자|[ksj26](https://github.com/kwonsungja)|||
 |3|6/10|최시경|[csk190](https://github.com/csk190)|||
-|4|6/17|최지현|[jhc0531](https://github.com/JHC0531)|||
+|4|6/17|최지현|[jhc0531](https://github.com/JHC0531)|Grammar|https://youtu.be/LBIeb3KVtNQ|
 |5|6/17|강동경|[dongkyung1208](https://github.com/dongkyung1208)|W|https://youtu.be/vYq_OTnPcd4|
 |6|6/17|조재민|[jjm912](https://github.com/JJM912)|||
 |7|6/17|박아진||||
