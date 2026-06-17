@@ -52,10 +52,8 @@ You will complete and share the following:
 **Part II:**
 
 5. In-class presentation (15 minutes) + discussion (10 minutes)  
-7. Peer feedback (written format): after presentations  ([Feedback writeup link](https://forms.gle/ho9qdRtQvpaRDjVr5))
-
-**Part III:**
-8. Final reflection essay or research squib
+7. Peer feedback (written format; 6/21): after presentations  ([Feedback writeup link](https://forms.gle/ho9qdRtQvpaRDjVr5))
+8. Final reflection essay (1page) and research squib (6/21): submission as a single file (pdf) via Email (mirankim316@gmail.com)
 
 ---
 
