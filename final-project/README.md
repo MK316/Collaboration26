@@ -20,6 +20,7 @@ Your project should demonstrate:
 - reflective teacher agency
 
 #### Overview Video
+How to display a youtube video on README.md file: example below
 
 [![Demo Video](https://raw.githubusercontent.com/MK316/Collaboration26/main/images/videocover.png)](https://youtu.be/ya0trJ6qtOw)
 
